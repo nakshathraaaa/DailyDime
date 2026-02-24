@@ -59,12 +59,12 @@ To develop a Java Swing-based Expense Management System that:
 
 ---
 
-## 🧪 Sample Test Case
+## Sample Test Case
 Login Credentials:
   Sample users(username/password):
-  Nakshathra/nash1234
-  Nithin/nithin1234
-  admin/admin1234
+    Nakshathra/nash1234  
+    Nithin/nithin1234  
+    admin/admin1234  
 
 Input:
 Date: 2026-02-23  
